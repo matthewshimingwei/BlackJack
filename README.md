@@ -1,2 +1,2 @@
 # BlackJack
-Java class
+Using java language to make a BlackJack Game
